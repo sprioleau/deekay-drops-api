@@ -1,0 +1,16 @@
+{
+	"name": "deekay-drops-api",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "netlify dev"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.25.0",
+		"cheerio": "^1.0.0-rc.10"
+	}
+}
